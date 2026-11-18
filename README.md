@@ -1,5 +1,5 @@
-# Módulo 4
-## Arbolando Barcelona. Análisis de las zonas verdes de Barcelona para ubicar el próximo parque urbano de la ciudad.
+# Arbolando Barcelona
+## Análisis de las zonas verdes de Barcelona para ubicar el próximo parque urbano de la ciudad.
 Tania Graff | Promo A Part Time
 
 *Herramienta visualización:* Power BI Desktop
